@@ -12,6 +12,6 @@
         <title>Naves juego</title>
     </head>
     <body>
-        
+        <div>HOla mundo cruel XD</div>
     </body>
 </html>
